@@ -1,0 +1,9 @@
+{
+  "generator-bangular": {
+    "version": "0.11.0",
+    "filters": {
+      "backend": "json",
+      "reload": "livereload"
+    }
+  }
+}
